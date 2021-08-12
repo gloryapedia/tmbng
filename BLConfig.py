@@ -23,7 +23,7 @@ Basic   ={
 
 Manual  ={
 
-        "Base Bet"     : 0.0001,
+        "Base Bet"     : 0.00001,
         "Max Base Bet" : 0,
         "Chance"       :{
                         "Min": 65,
@@ -40,7 +40,7 @@ Manual  ={
                 {
                 "Comment"       : "1",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 66,
@@ -49,7 +49,7 @@ Manual  ={
                 },{
                 "Comment"       : "2",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 56.5,
@@ -58,7 +58,7 @@ Manual  ={
                 },{
 				"Comment"       : "3",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 49.5,
@@ -67,7 +67,7 @@ Manual  ={
                 },{
                 "Comment"       : "4",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 44,
@@ -76,7 +76,7 @@ Manual  ={
                 },{
 				"Comment"       : "5",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 39.6,
@@ -85,7 +85,7 @@ Manual  ={
                 },{
 				"Comment"       : "6",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 36,
@@ -94,7 +94,7 @@ Manual  ={
                 },{
 				"Comment"       : "7",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 33,
@@ -103,7 +103,7 @@ Manual  ={
                 },{
                 "Comment"       : "8",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 30.4,
@@ -112,7 +112,7 @@ Manual  ={
                 },{
 				"Comment"       : "9",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 28.2,
@@ -121,7 +121,7 @@ Manual  ={
                 },{
                 "Comment"       : "10",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 26.4,
@@ -130,7 +130,7 @@ Manual  ={
                 },{
 				"Comment"       : "11",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 24.75,
@@ -139,7 +139,7 @@ Manual  ={
                 },{
 				"Comment"       : "12",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 23.2,
@@ -148,7 +148,7 @@ Manual  ={
                 },{
 				"Comment"       : "13",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 22,
@@ -157,7 +157,7 @@ Manual  ={
                 },{
                 "Comment"       : "14",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 20.8,
@@ -166,7 +166,7 @@ Manual  ={
                 },{
                 "Comment"       : "15",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 19.8,
@@ -175,7 +175,7 @@ Manual  ={
                 },{
                 "Comment"       : "16",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 18.85,
@@ -184,7 +184,7 @@ Manual  ={
                    },{
                 "Comment"       : "17",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 18,
@@ -193,7 +193,7 @@ Manual  ={
                 },{
                 "Comment"       : "18",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 17.2,
@@ -202,7 +202,7 @@ Manual  ={
                   },{
                 "Comment"       : "19",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 16.5,
@@ -211,7 +211,7 @@ Manual  ={
                    },{
                 "Comment"       : "20",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 15.84,
@@ -220,7 +220,7 @@ Manual  ={
                   },{
                 "Comment"       : "21",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 15.2,
@@ -229,7 +229,7 @@ Manual  ={
                   },{
                 "Comment"       : "22",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 14.6,
@@ -238,7 +238,7 @@ Manual  ={
                  },{
                 "Comment"       : "23",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 14.1,
@@ -247,7 +247,7 @@ Manual  ={
                  },{
                 "Comment"       : "24",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 13.6,
@@ -256,7 +256,7 @@ Manual  ={
                  },{
                 "Comment"       : "25",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 13.2,
@@ -265,7 +265,7 @@ Manual  ={
                  },{
                 "Comment"       : "26",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 12.7,
@@ -274,7 +274,7 @@ Manual  ={
                  },{
                 "Comment"       : "27",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 12.37,
@@ -292,7 +292,7 @@ Manual  ={
                   },{
                 "Comment"       : "29",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 11.64,
@@ -301,7 +301,7 @@ Manual  ={
                  },{
                 "Comment"       : "30",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 11.31,
@@ -310,7 +310,7 @@ Manual  ={
                  },{
                 "Comment"       : "31",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 11,
@@ -319,7 +319,7 @@ Manual  ={
                   },{
                 "Comment"       : "32",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 10.7,
@@ -328,7 +328,7 @@ Manual  ={
                   },{
                   "Comment"       : "33",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 10.4,
@@ -337,7 +337,7 @@ Manual  ={
                 },{
 				"Comment"       : "34",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 10.1,
@@ -346,7 +346,7 @@ Manual  ={
                 },{
 				"Comment"       : "35",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 9.9,
@@ -355,7 +355,7 @@ Manual  ={
                 },{
 				"Comment"       : "36",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 9.65,
@@ -364,7 +364,7 @@ Manual  ={
                 },{
 				"Comment"       : "37",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 9.42,
@@ -373,7 +373,7 @@ Manual  ={
                 },{
 				"Comment"       : "38",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 9.20,
@@ -382,7 +382,7 @@ Manual  ={
                 },{
 				"Comment"       : "39",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 9,
@@ -391,7 +391,7 @@ Manual  ={
                 },{
                 "Comment"       : "40",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 8.8,
@@ -400,7 +400,7 @@ Manual  ={
                 },{
 				"Comment"       : "41",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 8.60,
@@ -409,7 +409,7 @@ Manual  ={
                 },{
 				"Comment"       : "42",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 8.42,
@@ -418,7 +418,7 @@ Manual  ={
                 },{
 				"Comment"       : "43",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 8.25,
@@ -427,7 +427,7 @@ Manual  ={
                 },{
 				"Comment"       : "44",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 8,
@@ -436,7 +436,7 @@ Manual  ={
                 },{
 				"Comment"       : "45",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 7.9,
@@ -445,7 +445,7 @@ Manual  ={
                 },{
 				"Comment"       : "46",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 7.7,
@@ -454,7 +454,7 @@ Manual  ={
                 },{
 				"Comment"       : "47",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 7.6,
@@ -463,7 +463,7 @@ Manual  ={
                 },{
                 "Comment"       : "48",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 7.4,
@@ -472,7 +472,7 @@ Manual  ={
                 },{
 				"Comment"       : "49",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 7.3,
@@ -481,7 +481,7 @@ Manual  ={
                 },{
 				"Comment"       : "50",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 7.2,
@@ -490,7 +490,7 @@ Manual  ={
                 },{
 				"Comment"       : "51",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 7,
@@ -499,7 +499,7 @@ Manual  ={
                 },{
 				"Comment"       : "52",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 6.94,
@@ -508,7 +508,7 @@ Manual  ={
                 },{
 				"Comment"       : "53",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 6.82,
@@ -517,7 +517,7 @@ Manual  ={
                 },{
 				"Comment"       : "54",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 6.7,
@@ -526,7 +526,7 @@ Manual  ={
                 },{
 				"Comment"       : "55",
                 "Status"        : "on",
-                "Base Bet"      : 0.0002,
+                "Base Bet"      : 0.00002,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 6.6,
@@ -535,7 +535,7 @@ Manual  ={
                 },{
                 "Comment"       : "56",
                 "Status"        : "on",
-                "Base Bet"      : 0.221,
+                "Base Bet"      : 0.0221,
                 "Repeat Bets"   : 1,
                 "Chance"  :{
                            "Min": 65,
