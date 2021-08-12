@@ -1,11 +1,11 @@
 # Cek sampai bawah!!
 Basic   ={
-        "Username"             : "jantanzxz",
-        "Password"             : "Pejantan17#",
+        "Username"             : "high risk",
+        "Password"             : "high risk",
         "BL-Key"               : "xxxxxxxxx",
 
         "2FA"                  : "OFF",     # Keep this OFF if your 2FA isn't used
-        "Server"               : 1,         # 1=999proxy / 2=999dice / 3=999doge
+        "Server"               : 2,         # 1=999proxy / 2=999dice / 3=999doge
         "Reset If Profit"      : 0.00000001,
         "Reset If Lose"        : 0,
         "Reset If Win Streak"  : 1,
@@ -22,14 +22,14 @@ Basic   ={
 
 Manual  ={
 
-        "Base Bet"     : 0.000014,
+        "Base Bet"     : 0.000011,
         "Max Base Bet" : 0,
         "Chance"       :{
                         "Min": 11,
                         "Max": 11
                         },
 
-        "HiLo"         : "AUTO",  # AUTO / H / L
+        "HiLo"         : "L",  # AUTO / H / L
 
         "If Win"       : 1,
         "If Lose"      : 1.144,
@@ -39,11 +39,11 @@ Manual  ={
                 {
                 "Comment"       : "boom",
                 "Status"        : "on",
-                "Base Bet"      : 0.00001,
+                "Base Bet"      : 0.000013,
                 "Repeat Bets"   : 7,
                 "Chance"  :{
-                           "Min": 5,
-                           "Max": 5
+                           "Min": 11,
+                           "Max": 11
                            }
                 },{
                 "Comment"       : "tuyul",
