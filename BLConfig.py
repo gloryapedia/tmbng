@@ -9,7 +9,7 @@ Basic   ={
         "Currency"             : 2,         # 2=DOGE / 3=LTC
         "Reset If Profit"      : 0.00000001,
         "Reset If Lose"        : 0,
-        "Reset If Win Streak"  : 3,
+        "Reset If Win Streak"  : 4,
         "Reset If Lose Streak" : 0,
 
         "Target Balance"       : 20,
